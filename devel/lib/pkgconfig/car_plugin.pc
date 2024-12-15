@@ -1,0 +1,8 @@
+prefix=/home/eric/catkin_ws/devel
+
+Name: car_plugin
+Description: Description of car_plugin
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros std_msgs

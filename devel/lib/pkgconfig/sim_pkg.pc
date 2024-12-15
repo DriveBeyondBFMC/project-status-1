@@ -1,0 +1,8 @@
+prefix=/home/eric/catkin_ws/devel
+
+Name: sim_pkg
+Description: Description of sim_pkg
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

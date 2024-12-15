@@ -1,0 +1,8 @@
+prefix=/home/eric/catkin_ws/devel
+
+Name: utils
+Description: Description of utils
+Version: 0.0.0
+Cflags: -I/home/eric/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

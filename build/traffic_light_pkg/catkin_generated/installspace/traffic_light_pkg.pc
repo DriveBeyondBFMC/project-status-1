@@ -1,0 +1,8 @@
+prefix=/home/eric/catkin_ws/install
+
+Name: traffic_light_pkg
+Description: Description of traffic_light_pkg
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs
